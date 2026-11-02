@@ -9,19 +9,18 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/stevekkall-beansgc?tab=repositories"><img src="https://img.shields.io/badge/Projects-Active-7C3AED?style=for-the-badge" alt="Projects" /></a>
   <a href="https://steve.beanshop.top"><img src="https://img.shields.io/badge/Portfolio-Website-10B981?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://github.com/stevekkall-beansgc?tab=repositories"><img src="https://img.shields.io/badge/Projects-Featured-7C3AED?style=for-the-badge" alt="Projects" /></a>
   <a href="mailto:steve.k.kall@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-E11D48?style=for-the-badge" alt="Email" /></a>
 </p>
 
 ## What I build
 
-| Area | Focus |
-|---|---|
-| AI Product | AI-powered tools with practical constraints and clear tradeoffs |
-| Full-Stack | APIs, backend systems, cloud-native apps, UX-aware product work |
-| Trust & Quality | Compliance, fail-closed workflows, QA automation, reliability |
-| Systems | Local-first tools, durable data, correctness, workflow design |
+- AI-enabled products with practical constraints and explicit uncertainty
+- Full-stack applications spanning frontend, backend, cloud, and APIs
+- Trust-first systems built around reliability, correctness, and quality
+- Developer tooling and compliance automation that improve engineering rigor
+- Product experiences designed to solve real user problems
 
 ## Tech stack
 
@@ -31,65 +30,57 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![D1](https://img.shields.io/badge/D1-DB-5D5FEF?style=for-the-badge)
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## Featured projects
 
-### Bean Counter
-Rust • SQLite • Local-first • Accounting
+[![Bean Counter](https://img.shields.io/badge/Bean_Counter-Rust%20%2B%20SQLite-000000?style=for-the-badge)](https://github.com/stevekkall-beansgc/bean-counter)
 
-A privacy-first accounting system with durable receipts, explained corrections, and complete statements. It reflects strong systems thinking, trust, and practical software design.
+A privacy-first accounting system with durable receipts, explained corrections, and complete statements. Built for trustworthy financial workflows and local-first data integrity.
 
-### Beanfit
-Python • Local AI • Uncertainty-aware analysis
+[![Beanfit](https://img.shields.io/badge/Beanfit-Python%20%2B%20AI-3776AB?style=for-the-badge)](https://github.com/stevekkall-beansgc/beanfit)
 
-A Python tool for evaluating whether a local machine is a good fit for running AI models, with explicit uncertainty instead of misleading benchmark claims.
+A Python project that estimates machine suitability for local AI workloads with explicit uncertainty instead of misleading benchmark claims.
 
-### Gate Kit
-Python • GitHub Actions • QA automation
+[![Jumping Beans](https://img.shields.io/badge/Jumping_Beans-JS%20%2F%20TS-7C3AED?style=for-the-badge)](https://github.com/stevekkall-beansgc/jumping-beans)
 
-A fail-closed compliance gate driven by QA manifests and reusable workflow automation. It shows how I design developer tooling that improves quality and reduces operational risk.
+An agent-driven commerce experience where tools, preference profiles, and demand signals come together in a productized AI workflow.
 
-### Jumping Beans
-JavaScript • TypeScript • Agents • Product workflows
+[![Gate Kit](https://img.shields.io/badge/Gate_Kit-Python%20%2B%20QA-00A8E8?style=for-the-badge)](https://github.com/stevekkall-beansgc/gate-kit)
 
-An agent-driven commerce experience that discovers tools, assembles personalized product feeds, and supports aggregate demand-signal workflows.
+A fail-closed compliance gate built from QA manifests and reusable automation, designed to improve software quality and reduce risk.
 
-### Beanfit App
-JavaScript • Cloudflare Workers • D1
+[![Beanfit App](https://img.shields.io/badge/Beanfit_App-Cloudflare%20%2B%20D1-F38020?style=for-the-badge)](https://github.com/stevekkall-beansgc/beanfit-app)
 
-A Cloudflare Worker + D1 app for accounts, device pairing, and recommendation snapshots. It combines product UX with cloud-native backend architecture.
+A Cloudflare Worker + D1 application for accounts, device pairing, and recommendation snapshots — combining product UX and backend engineering.
 
-### QA Kit
-Python • Repository automation • JSON reporting
+[![QA Kit](https://img.shields.io/badge/QA_Kit-Python%20Automation-5D5FEF?style=for-the-badge)](https://github.com/stevekkall-beansgc/qa-kit)
 
-A QA orchestrator that runs repository checks and outputs structured results, reflecting a practical focus on quality and engineering workflow improvement.
+A repository QA orchestrator that runs structured checks and outputs JSON reports to improve workflow reliability and engineering quality.
+
+## Current focus
+
+- AI-enabled product experiences
+- trustworthy automation and quality gates
+- developer tooling and systems design
+- full-stack product work with real-world utility
 
 ## How I think
 
 I care about building software that is:
 - useful in the real world
-- reliable under real constraints
-- clear about tradeoffs and uncertainty
-- designed to be trustworthy, not just impressive
-- built with a product mindset from the start
-
-## Product mindset
-
-I enjoy building systems that bring together:
-- AI capability with practical limitations
-- product experience with technical depth
-- user trust with operational quality
-- prototypes with a path toward real use cases
-
-That means I don’t only write code — I think about architecture, UX, failure modes, and the actual value the system creates.
+- trustworthy under real constraints
+- honest about tradeoffs and uncertainty
+- designed to be understandable, not just impressive
+- built with a product mindset from day one
 
 ## Open to
 
-I’m open to opportunities in:
+I’m open to roles and collaborations in:
 - AI product engineering
 - software engineering
-- developer tooling
+- developer tools
 - systems design
 - trustworthy automation
 - product-focused technical roles
