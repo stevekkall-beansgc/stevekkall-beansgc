@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Steve 👋</h1>
 
 <p align="center">
-  I build software where <strong>AI, product thinking, and trustworthy systems</strong> meet.
+  I build software where <strong>AI, product thinking, and trustworthy systems</strong> come together.
 </p>
 
 <p align="center">
