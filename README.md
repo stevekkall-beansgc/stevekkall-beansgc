@@ -1,62 +1,82 @@
 # Hi, I'm Steve 👋
 
-I build software where AI, product thinking, and trustworthy systems meet.
+I build software at the intersection of AI, product design, and trustworthy systems engineering.
 
-My work is centered on taking ambitious ideas and turning them into practical, reliable tools people can actually use. I’m especially interested in building software that is useful, explainable, and designed to work well under real-world constraints.
+My work focuses on taking ambitious ideas and turning them into reliable, usable tools — from local-first financial software and AI fit estimators to compliance automation and agent-driven product experiences.
 
-## What I care about
+## What I build
 
-- Building products that solve real problems
-- Designing systems that are reliable and operationally sound
-- Making AI useful without overpromising
-- Shipping complete experiences, not just demos
-- Turning messy ideas into clear, working software
+- AI-powered tools with clear limitations and explicit uncertainty
+- Local-first and privacy-conscious applications
+- Developer tooling and engineering automation
+- Compliance and QA systems that fail safely
+- Agentic workflows and product experiences that feel real
 
-## What I’ve built
+## Featured work
 
 ### Bean Counter
-A Rust-based local accounting system with durable receipts, corrected entries, and complete financial reporting. This project reflects my interest in privacy-first systems, data integrity, and building tools people can trust with real-world responsibilities.
+Rust • SQLite • Local-first • Durable receipts • Financial systems
+
+A local accounting system built for privacy, traceability, and correctness. It includes durable receipts, explained corrections, and complete statements — a strong example of trust-first system design.
 
 ### Beanfit
-A Python tool for evaluating whether a local machine is a good fit for running AI models, with explicit uncertainty rather than fake precision. It shows my ability to think rigorously about AI deployment constraints and tradeoffs.
+Python • ML fit estimation • Local AI • Uncertainty-aware reasoning
+
+A Python utility that estimates whether a local machine is a good fit for running AI models, with explicit uncertainty rather than inflated benchmark claims. This project highlights practical AI judgment and systems thinking.
 
 ### Gate Kit
-A Python compliance gate driven by QA manifests, designed to fail closed and enforce engineering quality automatically. This project demonstrates strong systems thinking, automation, and operational discipline.
+Python • GitHub Actions • QA manifests • Fail-closed automation
+
+A compliance gate driven by QA manifests, with fail-closed verdicts and reusable workflow automation. This is a strong example of building developer tooling that improves quality and reduces risk.
 
 ### Jumping Beans
-An agent-driven commerce experience that discovers tools, assembles personalized demand signals, and creates a dynamic product feed. It showcases my interest in agent systems, product design, and AI-enabled user experiences.
+JavaScript • TypeScript • WebMCP • Agents • Commerce systems
+
+A user-owned deal engine where an agent discovers partner-shop tools, assembles a customized feed from a standing preference profile, and supports aggregate demand signal workflows. This project sits at the boundary of AI product design and agentic architecture.
 
 ### Beanfit App
-A Cloudflare Worker + D1 application for account management, device pairing, and AI recommendation snapshots. This project combines product UX, backend engineering, and cloud-native thinking in a lean architecture.
+JavaScript • Cloudflare Workers • D1 • API-backed product app
+
+A Cloudflare Worker and D1 web app for accounts, device pairing, and AI recommendation snapshots. It blends cloud-native architecture, product UX, and backend systems in a lean stack.
 
 ### QA Kit
-A Python-based QA orchestrator that runs repository checks and produces structured results. It reflects a practical mindset: build tooling that improves quality and reduces friction in real software workflows.
+Python • Repository automation • JSON reporting • CI quality tooling
 
-## What this says about me
+A Python standard-library QA orchestrator that runs repository checks, evaluates outputs, and produces structured JSON reports. It reflects a practical mindset: build tooling that improves engineering quality and reduces manual toil.
 
-Across my projects, I consistently build software that balances:
-- technical depth with product clarity
-- AI capability with practical constraints
-- systems design with real-world usability
-- automation with trust and accountability
+## Technical strengths
 
-I like working on problems where the hard part is not just writing code — it’s making sure the system is useful, understandable, and dependable.
+- Languages: Rust, Python, JavaScript, TypeScript
+- Data & storage: SQLite, D1
+- Cloud & infrastructure: Cloudflare Workers, APIs, serverless patterns
+- Automation: GitHub Actions, repository QA, workflow orchestration
+- AI/product: local model fit assessment, agent workflows, recommendation systems
+- Product thinking: user-owned systems, local-first UX, practical automation
 
-## Tech and tools
+## How I think
 
-Rust • Python • JavaScript • TypeScript • SQLite • Cloudflare Workers • D1 • GitHub Actions • APIs • AI Product Workflows • Systems Design
+I care about building software that is:
+
+- useful in the real world
+- understandable to humans
+- reliable under real constraints
+- explicit about tradeoffs and uncertainty
+- designed to ship, not just to impress
 
 ## Current focus
 
 I’m building at the intersection of:
+
 - AI-enabled products
-- developer tooling
 - trustworthy automation
-- practical systems engineering
+- developer tooling
+- systems design
+- practical product engineering
 
 ## Open to
 
 I’m open to opportunities in:
+
 - AI product engineering
 - software engineering
 - developer tools
@@ -64,4 +84,4 @@ I’m open to opportunities in:
 - trustworthy automation
 - product-focused technical roles
 
-If you’re building something ambitious in AI, systems, or product engineering, I’d love to connect.
+If you're building something ambitious in AI, systems, developer tooling, or product engineering, I’d love to connect.
