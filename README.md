@@ -1,87 +1,99 @@
-# Hi, I'm Steve 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Builder;AI+Product+Engineer;Systems-minded+Developer;Trustworthy+Software+Engineer" alt="Typing SVG" />
+</p>
 
-I build software at the intersection of AI, product design, and trustworthy systems engineering.
+<h1 align="center">Hi, I'm Steve 👋</h1>
 
-My work focuses on taking ambitious ideas and turning them into reliable, usable tools — from local-first financial software and AI fit estimators to compliance automation and agent-driven product experiences.
+<p align="center">
+  I build software where <strong>AI, product thinking, and trustworthy systems</strong> meet.
+</p>
+
+<p align="center">
+  <a href="https://github.com/stevekkall-beansgc?tab=repositories"><img src="https://img.shields.io/badge/Projects-Active-7C3AED?style=for-the-badge" alt="Projects" /></a>
+  <a href="https://steve.beanshop.top"><img src="https://img.shields.io/badge/Portfolio-Website-10B981?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="mailto:steve.k.kall@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-E11D48?style=for-the-badge" alt="Email" /></a>
+</p>
 
 ## What I build
 
-- AI-powered tools with clear limitations and explicit uncertainty
-- Local-first and privacy-conscious applications
-- Developer tooling and engineering automation
-- Compliance and QA systems that fail safely
-- Agentic workflows and product experiences that feel real
+| Area | Focus |
+|---|---|
+| AI Product | AI-powered tools with practical constraints and clear tradeoffs |
+| Full-Stack | APIs, backend systems, cloud-native apps, UX-aware product work |
+| Trust & Quality | Compliance, fail-closed workflows, QA automation, reliability |
+| Systems | Local-first tools, durable data, correctness, workflow design |
 
-## Featured work
+## Tech stack
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## Featured projects
 
 ### Bean Counter
-Rust • SQLite • Local-first • Durable receipts • Financial systems
+Rust • SQLite • Local-first • Accounting
 
-A local accounting system built for privacy, traceability, and correctness. It includes durable receipts, explained corrections, and complete statements — a strong example of trust-first system design.
+A privacy-first accounting system with durable receipts, explained corrections, and complete statements. It reflects strong systems thinking, trust, and practical software design.
 
 ### Beanfit
-Python • ML fit estimation • Local AI • Uncertainty-aware reasoning
+Python • Local AI • Uncertainty-aware analysis
 
-A Python utility that estimates whether a local machine is a good fit for running AI models, with explicit uncertainty rather than inflated benchmark claims. This project highlights practical AI judgment and systems thinking.
+A Python tool for evaluating whether a local machine is a good fit for running AI models, with explicit uncertainty instead of misleading benchmark claims.
 
 ### Gate Kit
-Python • GitHub Actions • QA manifests • Fail-closed automation
+Python • GitHub Actions • QA automation
 
-A compliance gate driven by QA manifests, with fail-closed verdicts and reusable workflow automation. This is a strong example of building developer tooling that improves quality and reduces risk.
+A fail-closed compliance gate driven by QA manifests and reusable workflow automation. It shows how I design developer tooling that improves quality and reduces operational risk.
 
 ### Jumping Beans
-JavaScript • TypeScript • WebMCP • Agents • Commerce systems
+JavaScript • TypeScript • Agents • Product workflows
 
-A user-owned deal engine where an agent discovers partner-shop tools, assembles a customized feed from a standing preference profile, and supports aggregate demand signal workflows. This project sits at the boundary of AI product design and agentic architecture.
+An agent-driven commerce experience that discovers tools, assembles personalized product feeds, and supports aggregate demand-signal workflows.
 
 ### Beanfit App
-JavaScript • Cloudflare Workers • D1 • API-backed product app
+JavaScript • Cloudflare Workers • D1
 
-A Cloudflare Worker and D1 web app for accounts, device pairing, and AI recommendation snapshots. It blends cloud-native architecture, product UX, and backend systems in a lean stack.
+A Cloudflare Worker + D1 app for accounts, device pairing, and recommendation snapshots. It combines product UX with cloud-native backend architecture.
 
 ### QA Kit
-Python • Repository automation • JSON reporting • CI quality tooling
+Python • Repository automation • JSON reporting
 
-A Python standard-library QA orchestrator that runs repository checks, evaluates outputs, and produces structured JSON reports. It reflects a practical mindset: build tooling that improves engineering quality and reduces manual toil.
-
-## Technical strengths
-
-- Languages: Rust, Python, JavaScript, TypeScript
-- Data & storage: SQLite, D1
-- Cloud & infrastructure: Cloudflare Workers, APIs, serverless patterns
-- Automation: GitHub Actions, repository QA, workflow orchestration
-- AI/product: local model fit assessment, agent workflows, recommendation systems
-- Product thinking: user-owned systems, local-first UX, practical automation
+A QA orchestrator that runs repository checks and outputs structured results, reflecting a practical focus on quality and engineering workflow improvement.
 
 ## How I think
 
 I care about building software that is:
-
 - useful in the real world
-- understandable to humans
 - reliable under real constraints
-- explicit about tradeoffs and uncertainty
-- designed to ship, not just to impress
+- clear about tradeoffs and uncertainty
+- designed to be trustworthy, not just impressive
+- built with a product mindset from the start
 
-## Current focus
+## Product mindset
 
-I’m building at the intersection of:
+I enjoy building systems that bring together:
+- AI capability with practical limitations
+- product experience with technical depth
+- user trust with operational quality
+- prototypes with a path toward real use cases
 
-- AI-enabled products
-- trustworthy automation
-- developer tooling
-- systems design
-- practical product engineering
+That means I don’t only write code — I think about architecture, UX, failure modes, and the actual value the system creates.
 
 ## Open to
 
 I’m open to opportunities in:
-
 - AI product engineering
 - software engineering
-- developer tools
+- developer tooling
 - systems design
 - trustworthy automation
 - product-focused technical roles
 
-If you're building something ambitious in AI, systems, developer tooling, or product engineering, I’d love to connect.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stevekkall-beansgc&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub stats" />
+</p>
