@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Full-Stack+Builder;AI+Product+Engineer;Systems-minded+Developer;Trustworthy+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI+Product+Engineer;Full-Stack+Builder;Systems+Thinker;Trustworthy+Engineer" alt="Steve banner" />
 </p>
 
 <h1 align="center">Hi, I'm Steve 👋</h1>
 
 <p align="center">
   I build software where <strong>AI, product thinking, and trustworthy systems</strong> come together.
+</p>
+
+<p align="center">
+  <strong>Currently building:</strong> practical AI products, reliable systems, and full-stack experiences that solve real problems.
 </p>
 
 <p align="center">
