@@ -1,94 +1,71 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=AI+Product+Engineer;Full-Stack+Builder;Systems+Thinker;Trustworthy+Engineer" alt="Steve banner" />
-</p>
+# Hi, I'm Steve Kall
 
-<h1 align="center">Hi, I'm Steve 👋</h1>
+### I build financial systems and AI products.
 
-<p align="center">
-  I build software where <strong>AI, product thinking, and trustworthy systems</strong> come together.
-</p>
+I work where finance, product, and engineering meet. I like taking a complicated business problem, understanding the commercial and accounting requirements, and building the data and workflows that make the answer usable.
 
-<p align="center">
-  <strong>Currently building:</strong> practical AI products, reliable systems, and full-stack experiences that solve real problems.
-</p>
+My background runs from audit and finance leadership to product, data, and engineering. In my most recent role, I owned billing and account-management infrastructure as an advertising business grew from $60 million to $1 billion in annual ad spend, supporting $500 million in annual revenue-share payouts. Today, I build and lead projects through Legume Labs, exploring billing, agent-driven commerce, local AI, and the tooling that helps software teams ship reliably.
 
-<p align="center">
-  <a href="https://steve.beanshop.top"><img src="https://img.shields.io/badge/Portfolio-Website-10B981?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://github.com/stevekkall-beansgc?tab=repositories"><img src="https://img.shields.io/badge/Projects-Featured-7C3AED?style=for-the-badge" alt="Projects" /></a>
-  <a href="mailto:steve.k.kall@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-E11D48?style=for-the-badge" alt="Email" /></a>
-</p>
+[Portfolio and résumé](https://steve.beanshop.top/) · [Legume Labs](https://beanshop.top/) · [LinkedIn](https://www.linkedin.com/in/stephen-kall-449b201a/) · [Email](mailto:steve.k.kall@gmail.com)
 
-## What I build
+## Experience and milestones
 
-- AI-enabled products with practical constraints and explicit uncertainty
-- Full-stack applications spanning frontend, backend, cloud, and APIs
-- Trust-first systems built around reliability, correctness, and quality
-- Developer tooling and compliance automation that improve engineering rigor
-- Product experiences designed to solve real user problems
+![Scale and outcomes: helped grow ARR from $9M to $50M, supported growth in ad spend from $60M to $1B, oversaw $3B in merchandise payables, reduced DSO from 53 to 25 days, reduced delivery cycle time by 67%, and delivered $133M in combined commercial impact across vendor rebates, partner-led selling, bespoke commercial arrangements, reinvestment, and credits.](career-milestones.png)
 
-## Tech stack
+My work has followed a common thread: understand the business, make the numbers reliable, and build the systems that help people act on them.
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![D1](https://img.shields.io/badge/D1-DB-5D5FEF?style=for-the-badge)
-![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+- **Billing and financial infrastructure:** Owned billing and account-management infrastructure at an advertising technology business. Built managed-account and contract-to-billing workflows that translated bespoke commercial terms into deterministic logic, and designed consolidated billing infrastructure across two acquired businesses. Bringing key billing services in-house saved $1 million.
+- **Data and reporting:** Built dimensional dbt models for billing and GTM reporting across products, covering accounts, customers, contract terms, invoices, ad spend, and revenue-share payouts. Used Git, pull requests, tests, and CI, and wrote SQL against operational sources of truth. Built initial board reporting and implemented planning and forecasting tools.
+- **Order-to-cash and controls:** Redesigned accounts receivable and collections workflows, reducing DSO from 53 to 25 days. Partnered with external auditors on automated controls and audit readiness across revenue and invoicing.
+- **Standalone finance and operations:** Led a four-person team establishing finance and accounting operations after separation from shared services. Implemented NetSuite and inventory and point-of-sale systems, owned integrations, and administered NetSuite modules during implementation.
+- **Vendor finance:** Managed an eight-person accounting team overseeing $3 billion in merchandise payables and $1 billion in indirect spend. Negotiated a dropship vendor rebate program generating $20 million in annualized incremental margin and helped integrate two acquisitions into core finance infrastructure.
+- **Finance and growth:** Established budgeting and financial reporting, implemented the company's first ERP and CRM, and hired and managed a seven-person Finance, Accounting, and IT team. Developed a pricing model and sales strategy that helped grow ARR from $9 million to $50 million, including a pricing application to improve quote accuracy.
+- **Earlier foundations:** Owned revenue accounting and developed payment-method and fraud-risk business intelligence in direct-to-consumer retail, following a start in public accounting and audit.
 
-## Featured projects
+## Selected work
 
-[![Bean Counter](https://img.shields.io/badge/Bean_Counter-Rust%20%2B%20SQLite-000000?style=for-the-badge)](https://github.com/stevekkall-beansgc/bean-counter)
+### [Bean Counter](https://github.com/stevekkall-beansgc/bean-counter) · Billing infrastructure
 
-A privacy-first accounting system with durable receipts, explained corrections, and complete statements. Built for trustworthy financial workflows and local-first data integrity.
+How do you give an application a billing history that can be explained, retried, and corrected?
 
-[![Beanfit](https://img.shields.io/badge/Beanfit-Python%20%2B%20AI-3776AB?style=for-the-badge)](https://github.com/stevekkall-beansgc/beanfit)
+Bean Counter is a local billing engine for applications that produce completed work. It records charges and receipts, preserves earlier records when corrections are made, and produces period statements and finance exports. The current public release is a **testing prerelease**, not a production-readiness claim.
 
-A Python project that estimates machine suitability for local AI workloads with explicit uncertainty instead of misleading benchmark claims.
+[![Bean Counter: web products, AI workflows, and backend jobs send events to a billing engine that produces charges, statements, and exports.](https://raw.githubusercontent.com/stevekkall-beansgc/bean-counter/main/docs/assets/billing-layer.png)](https://github.com/stevekkall-beansgc/bean-counter)
 
-[![Jumping Beans](https://img.shields.io/badge/Jumping_Beans-JS%20%2F%20TS-7C3AED?style=for-the-badge)](https://github.com/stevekkall-beansgc/jumping-beans)
+**Explore:** [Project and release scope](https://github.com/stevekkall-beansgc/bean-counter) · [Integration guide](https://github.com/stevekkall-beansgc/bean-counter/blob/main/docs/integration-agent-guide.md) · [Release testing](https://github.com/stevekkall-beansgc/bean-counter/releases/tag/v0.11.0)
 
-An agent-driven commerce experience where tools, preference profiles, and demand signals come together in a productized AI workflow.
+### [Jumping Beans](https://github.com/stevekkall-beansgc/jumping-beans) · Agent-driven commerce
 
-[![Gate Kit](https://img.shields.io/badge/Gate_Kit-Python%20%2B%20QA-00A8E8?style=for-the-badge)](https://github.com/stevekkall-beansgc/gate-kit)
+How can shoppers control what they see while agents discover offers across participating sites?
 
-A fail-closed compliance gate built from QA manifests and reusable automation, designed to improve software quality and reduce risk.
+Jumping Beans explores a shopper-controlled offer experience and cross-site WebMCP tool discovery. The project separates connected partner responses from illustrative fallback previews and keeps consequential actions with the relevant shopper or merchant.
 
-[![Beanfit App](https://img.shields.io/badge/Beanfit_App-Cloudflare%20%2B%20D1-F38020?style=for-the-badge)](https://github.com/stevekkall-beansgc/beanfit-app)
+**Explore:** [Product flow and technical boundaries](https://github.com/stevekkall-beansgc/jumping-beans)
 
-A Cloudflare Worker + D1 application for accounts, device pairing, and recommendation snapshots — combining product UX and backend engineering.
+### [BeanFit](https://github.com/stevekkall-beansgc/beanfit) · Local AI decisions
 
-[![QA Kit](https://img.shields.io/badge/QA_Kit-Python%20Automation-5D5FEF?style=for-the-badge)](https://github.com/stevekkall-beansgc/qa-kit)
+How do you choose a starting model for your own machine without mistaking an estimate for a benchmark?
 
-A repository QA orchestrator that runs structured checks and outputs JSON reports to improve workflow reliability and engineering quality.
+BeanFit detects Apple Silicon hardware, estimates memory fit and speed, and ranks model configurations. Its documentation makes the assumptions and limits visible; the estimates are not measured benchmarks.
 
-## Current focus
+**Explore:** [Method and quickstart](https://github.com/stevekkall-beansgc/beanfit) · [Estimation implementation](https://github.com/stevekkall-beansgc/beanfit/blob/main/src/beanfit/engine/estimate.py)
 
-- AI-enabled product experiences
-- trustworthy automation and quality gates
-- developer tooling and systems design
-- full-stack product work with real-world utility
+### [QA Kit](https://github.com/stevekkall-beansgc/qa-kit) and [Gate Kit](https://github.com/stevekkall-beansgc/gate-kit) · Software quality
 
-## How I think
+How do teams make checks repeatable and understand what actually passed?
 
-I care about building software that is:
-- useful in the real world
-- trustworthy under real constraints
-- honest about tradeoffs and uncertainty
-- designed to be understandable, not just impressive
-- built with a product mindset from day one
+QA Kit runs repository-owned checks selected by a manifest and records a JSON verdict. Gate Kit uses a shared contract to run documentation and test checks locally or in CI, with missing configuration treated as a failure. The public examples use synthetic repositories and are not security certification.
 
-## Open to
+**Explore:** [QA Kit quickstart](https://github.com/stevekkall-beansgc/qa-kit#five-minute-public-showcase) · [Gate Kit synthetic demo](https://github.com/stevekkall-beansgc/gate-kit#try-the-synthetic-demo)
 
-I’m open to roles and collaborations in:
-- AI product engineering
-- software engineering
-- developer tools
-- systems design
-- trustworthy automation
-- product-focused technical roles
+## How I work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevekkall-beansgc&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub stats" />
-</p>
+I build with speed, flexibility, and precision. In the age of AI, it's easy to make something quickly and hope someone figures out scalability or new features. I care about the foundations as well: clear sources of truth, purposeful architecture, and workflows that other people can understand and extend.
+
+My hands-on experience includes SQL, PostgreSQL, Snowflake, and dbt, including dimensional modeling, Git, pull requests, tests, and CI. The projects here also use Rust, Python, JavaScript/TypeScript, SQLite, and Cloudflare. I work with teams and AI tools to take ideas from a business problem through implementation, testing, and iteration.
+
+## Let's connect
+
+I'm interested in roles and collaborations across AI products, financial infrastructure, monetization, and applied AI, especially where the job calls for connecting the business problem to the system that solves it.
+
+[Read more about my experience](https://steve.beanshop.top/) · [Get in touch](mailto:steve.k.kall@gmail.com)
